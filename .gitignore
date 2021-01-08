@@ -20,6 +20,8 @@ coverage
 # style.css
 # style.css.map
 
+src
+
 # Error files
 yarn-error.log
 
